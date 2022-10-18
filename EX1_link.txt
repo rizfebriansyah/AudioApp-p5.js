@@ -1,0 +1,7 @@
+Generated shareable link file: 
+https://hub.labs.coursera.org:443/connect/sharedshekwhxv?forceRefresh=false&path=%2FvMBxTlyvUcM5DXb37Upsye6EhaJPW4z7oTLHiHdIrBJcLsAIkbpg8LFmKA6qdMB0%2F
+
+However, the generated link above does not work. Need to trim URL, remove everything else after false. 
+
+This is the working link:
+https://hub.labs.coursera.org:443/connect/sharedshekwhxv?forceRefresh=false
