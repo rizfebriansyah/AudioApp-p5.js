@@ -3,7 +3,7 @@ To process a sound file that has already been recorded and send the edited audio
 
 The following effects will also be applied: a low-pass filter, waveshaper distortion, a dynamic compressor, reverb, and master volume.
 
-Full report here: [Exercise1_Report.pdf](https://github.com/rizfebriansyah/AudioApp-p5.js/files/9805811/Exercise1_Report.pdf)
+Full report here: [AudioApp_Exercise1_Report.pdf](https://github.com/rizfebriansyah/AudioApp-p5.js/files/9805954/AudioApp_Exercise1_Report.pdf)
 
 Walkthrough of the app:  
 https://user-images.githubusercontent.com/88428142/196320793-ab2162e9-af6d-4ed0-a543-330bb379e07c.mp4
