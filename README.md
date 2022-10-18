@@ -5,8 +5,8 @@ The following effects will also be applied: a low-pass filter, waveshaper distor
 
 Full report here: [Exercise1_Report.pdf](https://github.com/rizfebriansyah/AudioApp-p5.js/files/9805811/Exercise1_Report.pdf)
 
-Walkthrough of the app:
-https://user-images.githubusercontent.com/88428142/196320383-58c12dbb-995f-477a-9482-350965c756f6.mp4
+Walkthrough of the app:  
+https://user-images.githubusercontent.com/88428142/196320793-ab2162e9-af6d-4ed0-a543-330bb379e07c.mp4
 
-Audio App Interface:
+Audio App Interface:  
 <img width="412" alt="audioappp5js" src="https://user-images.githubusercontent.com/88428142/196319692-5cae0a17-b6da-45fd-8c2e-e42a642cee07.png">
